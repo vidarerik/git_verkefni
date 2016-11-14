@@ -38,3 +38,10 @@ GIT Spurningar
 	*	Til að sjá hvað það var breytt in the "staged" area
 *	c) git diff commit1 commit2	
 	*	show differences between branches for one or multiple or all files
+
+	4. 	Hvað er útgáfustýring (e.version control)? 
+	Version control software allows you to track the changes you make to your code, as well as being able to easily backtrack these changes, share your development efforts and more
+
+#4. 	Hvað er útgáfustýring (e.version control)?
+
+*	Version control software allows you to track the changes you make to your code, as well as being able to easily backtrack these changes, share your development efforts and more
