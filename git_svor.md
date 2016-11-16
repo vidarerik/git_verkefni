@@ -51,3 +51,8 @@ GIT Spurningar
 #5.	Hverjir eru helstu kostir við að nota GIT?
 
 *	Það er mjög hentugt t.d. að vinna í hóp til að deila hugmyndum ,breyta og það er open source
+
+#6.	
+*	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+		*Gott er að venja sig á að commita þegar það er bætt eða breytt kóðanum og maður er sáttur með útkomu
+
