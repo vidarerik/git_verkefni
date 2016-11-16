@@ -42,6 +42,12 @@ GIT Spurningar
 	4. 	Hvað er útgáfustýring (e.version control)? 
 	Version control software allows you to track the changes you make to your code, as well as being able to easily backtrack these changes, share your development efforts and more
 
+
 #4. 	Hvað er útgáfustýring (e.version control)?
 
 *	Version control software allows you to track the changes you make to your code, as well as being able to easily backtrack these changes, share your development efforts and more
+
+
+#5.	Hverjir eru helstu kostir við að nota GIT?
+
+*	Það er mjög hentugt t.d. að vinna í hóp til að deila hugmyndum ,breyta og það er open source
