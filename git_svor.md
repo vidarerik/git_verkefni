@@ -58,3 +58,8 @@ GIT Spurningar
 	*	ef skrá er í working directory þá ert þú enn að vinna í henni
 	*	ef skrá er í staging area er búið að gera git add og git commit en ekki git push
 	*	ef skrá er komin í repository er búið að gera git push og hún komin á t.d. Github.com, repository er "geymsla" fyrir skrárnar í verkefninu
+
+#8.	
+*	Hvenær er sniðugt að nota greinar (branches)? 
+	*	Þegar það er verið að gera responsive website er það hentugt vegna þess að þá er 	hægt að gera branch sem heitir mobile og vinna bara með mobile í því branchi
+
