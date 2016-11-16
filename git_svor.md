@@ -63,3 +63,6 @@ GIT Spurningar
 *	Hvenær er sniðugt að nota greinar (branches)? 
 	*	Þegar það er verið að gera responsive website er það hentugt vegna þess að þá er 	hægt að gera branch sem heitir mobile og vinna bara með mobile í því branchi
 
+
+Höfundur:
+Viðar Erik Viðarsson
